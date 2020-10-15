@@ -1,0 +1,64 @@
+<style>
+		body {
+			margin: 0px;
+			padding: 0px;
+		}
+
+		.dropdown {
+			margin: auto;
+		}
+
+    
+    .box-shadow { 
+      box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); 
+    }
+    
+		h1 {
+			color: grey;
+			font-family: helvetica, times;
+		}
+
+    #prop-desc {
+      text-align: center;
+      padding: 20px;
+      margin-top: 0px;
+    }
+
+		#btn {
+			margin: auto;
+			margin-top: 30px;
+			display: block;
+		}
+
+    #top {
+      margin-top: 30px;
+    }
+    
+		img {
+			max-width: 100%;
+			height: auto;
+			margin: auto;
+			display: block;
+		}
+
+		#map-canvas {
+			height: 375px;
+			width: 500px;
+			background-color: #CCC;
+			margin: auto;
+		}
+
+		div.fill {
+			position: relative;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			overflow: hidden;
+			padding: 25px;
+		}
+
+		div.fill img {
+			flex-shrink: 0;
+
+		}
+</style>
