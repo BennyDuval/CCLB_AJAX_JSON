@@ -43,7 +43,7 @@ function myFun(x) {
   //Accessing Property Image and assigning it to src attribute
   $("#prop-img").attr("src", imgList[x]);
   //Showing Property Selected and writing it to page
-  $("#prop-desc").innerHTML = `You have selected Property  ${x+1}`;
+  $("#prop-desc").innerHTML(`You Have Selected Property ${x+1}`);
   //Traversing Nested Object
   traverse(JSON.parse(myVar[x]), process);
   //Appends all data aggregated in content variable into the webpage, drawing the tables. 
