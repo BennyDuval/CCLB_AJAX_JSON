@@ -13,8 +13,8 @@ The data is viewable from the ```index.html``` file. This file utilizes:
 ```Google Maps API``` to display all the associated data and images corresponding to the selected property chosen from the drop-down at the top of the webpage.
 
 ## Running Locally
-To run the project locally on any machine, the coding was done within repl.it. In order to run it, all that is needed is an internet connection and to visit: https://cclbajaxjson.benjaminduval.repl.co/. 
+To run the project locally on any machine, the coding was done within repl.it. In order to run it, first visit: https://repl.it/@BenjaminDuval/CCLBAJAXJSON to ensure the server is running the project. Once it is verified running, the site can be utilized at https://cclbajaxjson.benjaminduval.repl.co/. 
 
 The site repl.it features an IDE and server space to run projects. It appeared to best the best option for making sure the code would run without burdening users with any installation steps. 
 
-The code hosted on repl.it can be seen by visiting: https://repl.it/@BenjaminDuval/CCLBAJAXJSON
+
