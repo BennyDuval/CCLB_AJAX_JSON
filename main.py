@@ -3,7 +3,7 @@ import xmltodict
 import json
 from flask import Flask
 from flask import render_template
-from flask import Markup
+
 
 #creating an array to hold future JSON data
 tojson = []
