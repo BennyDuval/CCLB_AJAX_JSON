@@ -8,7 +8,6 @@ Once the data is retrieved, it is transformed to JSON format using ```xmltodict`
 
 The data is viewable from the ```index.html``` file. This file utilizes:
 ```Bootstrap```
-```PopperJS```
 ```JQuery```
 ```Google Maps API``` to display all the associated data and images corresponding to the selected property chosen from the drop-down at the top of the webpage.
 
