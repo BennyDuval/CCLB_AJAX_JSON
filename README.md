@@ -7,8 +7,8 @@ The first step was to access the data in AJAX form. A Python script was used to 
 Once the data is retrieved, it is transformed to JSON format using ```xmltodict``` along with ```json``` libraries. Then passed to an HTML page utilizing ```flask``` library. 
 
 The data is viewable from the ```index.html``` file. This file utilizes:
-```Bootstrap```
-```JQuery```
+```Bootstrap 4.5.2```
+```JQuery 3.5.1```
 ```Google Maps API``` to display all the associated data and images corresponding to the selected property chosen from the drop-down at the top of the webpage.
 
 JavaScript code was placed inside the index file. Although I know it is best practice to have this placed in a separate .js file, the program ran faster and more consistently within the repl environment with the JavaScript code within the ```index.html``` file.
